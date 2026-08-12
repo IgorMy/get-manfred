@@ -118,6 +118,36 @@
         ]
       }
     ],
+    "projects": [
+      {
+        "details": {
+          "name": "Odoo MCP multiusuario (OAuth 2.1 + Keycloak)",
+          "description": "Servidor MCP que conecta asistentes de IA con Odoo ERP. Fork que sustituye la credencial única compartida del proyecto original por autenticación por usuario, de forma que cada persona opera en Odoo con sus propios permisos en lugar de con una cuenta técnica común.\n\n- Keycloak como bóveda de credenciales y proveedor de identidad.\n- Sesiones aisladas por token: cada usuario mantiene su propia conexión XML-RPC contra Odoo.\n- Alta sin interacción en el chat: el flujo de autorización se resuelve fuera de la conversación.\n- Desplegado con Docker y Caddy como proxy inverso, con PostgreSQL para el estado de sesión.\n\nUso real: automatiza la facturación de proveedores y las consultas al ERP, eliminando gran parte del trabajo administrativo manual del equipo.",
+          "URL": "https://github.com/IgorMy/mcp-odoo-oauth-multi-user"
+        },
+        "type": "openSource",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2026-06-01",
+            "competences": [
+              {
+                "name": "Docker",
+                "type": "technology"
+              },
+              {
+                "name": "PostgreSQL",
+                "type": "technology"
+              },
+              {
+                "name": "Python",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      }
+    ],
     "publicArtifacts": [
       {
         "details": {
@@ -424,6 +454,11 @@
       }
     ],
     "desiredJobDescription": "Mi trabajo ideal me permite tocar el producto de extremo a extremo: entender el problema de negocio, decidir la arquitectura que le encaja y llevarlo hasta producción. Me motiva más entender bien una herramienta —sus virtudes y sus límites— que acumular tecnologías, y disfruto especialmente con las integraciones que sostienen el negocio: pagos, ERP y, últimamente, conectar modelos de lenguaje con sistemas reales mediante MCP.\n\nMe muevo cómodo entre ecosistemas y entre frontend y backend, así que valoro equipos sin muros rígidos entre especialidades. Un buen día para mí tiene tiempo de foco para construir, revisiones de código honestas y decisiones técnicas que se discuten en abierto.\n\nMe veo en un punto medio entre contribuidor individual y referente técnico: he liderado técnicamente un producto y he formado a compañeros, y quiero seguir haciéndolo sin dejar de escribir código.",
-    "goodPractices": "Trabajo con tests en los dos ecosistemas en los que me muevo: Pytest en Python y Vitest, Jest y React Testing Library en TypeScript. No persigo cobertura por la cobertura: priorizo la lógica de negocio crítica, y en integraciones de pago o con ERPs los tests son innegociables porque un fallo silencioso ahí cuesta dinero real.\n\nMonto CI/CD desde el principio. En HumanAI los pipelines de GitHub Actions cubren test, build, comprobación de compatibilidad entre servicios, despliegue y verificación post-deploy sobre un ecosistema de varios proyectos interdependientes, precisamente porque el riesgo no está en cada repo aislado sino en cómo encajan entre sí.\n\nElijo la arquitectura según el alcance real del proyecto —hexagonal, screaming architecture, microservicios o multi-tenant— en vez de aplicar siempre el mismo patrón. Prefiero entender bien pocas herramientas que acumular muchas superficialmente.\n\nEn observabilidad, monitorización de errores en producción con Sentry: sin visibilidad de lo que pasa después del despliegue, las buenas prácticas anteriores sirven de poco."
+    "goodPractices": "Trabajo con tests en los dos ecosistemas en los que me muevo: Pytest en Python y Vitest, Jest y React Testing Library en TypeScript. No persigo cobertura por la cobertura: priorizo la lógica de negocio crítica, y en integraciones de pago o con ERPs los tests son innegociables porque un fallo silencioso ahí cuesta dinero real.\n\nMonto CI/CD desde el principio. En HumanAI los pipelines de GitHub Actions cubren test, build, comprobación de compatibilidad entre servicios, despliegue y verificación post-deploy sobre un ecosistema de varios proyectos interdependientes, precisamente porque el riesgo no está en cada repo aislado sino en cómo encajan entre sí.\n\nElijo la arquitectura según el alcance real del proyecto —hexagonal, screaming architecture, microservicios o multi-tenant— en vez de aplicar siempre el mismo patrón. Prefiero entender bien pocas herramientas que acumular muchas superficialmente.\n\nEn observabilidad, monitorización de errores en producción con Sentry: sin visibilidad de lo que pasa después del despliegue, las buenas prácticas anteriores sirven de poco.",
+    "projects": [
+      {
+        "name": "Odoo MCP multiusuario (OAuth 2.1 + Keycloak)"
+      }
+    ]
   }
 }
