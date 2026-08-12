@@ -165,12 +165,26 @@
         },
         "roles": [
           {
-            "name": "Full-stack Developer",
+            "name": "Full Stack Developer — Prácticas",
             "startDate": "2017-04-01",
             "finishDate": "2017-09-30",
             "challenges": [
               {
-                "description": "Front-End: React.js.\nBack-End: PHP - Laravel.\nDatabase: Firebase\n\nEn mi corta estancia en esta empresa, participe en varios desarrollos, como un sistema de telecomanda automática para los locales de ocio, que me impulsaron a seguir estudiando e ir a la Universidad."
+                "description": "- Desarrollé el sistema de telecomanda automática para hostelería de la línea de producto STCubic.\n- Construí pequeñas aplicaciones de gestión de contenido para restaurantes.\n- Gestioné WordPress para diferentes clientes.\n\nStack: Laravel, React.js, Express.js, Firebase, WordPress."
+              }
+            ],
+            "competences": [
+              {
+                "name": "Express",
+                "type": "technology"
+              },
+              {
+                "name": "Laravel",
+                "type": "technology"
+              },
+              {
+                "name": "React",
+                "type": "technology"
               }
             ]
           }
