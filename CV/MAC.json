@@ -230,6 +230,14 @@
         },
         "finishDate": "2022-09-30"
       }
+    ],
+    "softSkills": [
+      {
+        "skill": {
+          "name": "Capacidad de autogestión",
+          "type": "practice"
+        }
+      }
     ]
   },
   "careerPreferences": {
