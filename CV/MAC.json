@@ -153,7 +153,11 @@
         "details": {
           "name": "Multihelpers: SaaS nacional con +800 profesionales y +100.000 servicios anuales",
           "description": "Lideré técnicamente Multihelpers en iAR, plataforma SaaS de asistencia técnica y manitas a domicilio con cobertura nacional. La construí de principio a fin y la mantuve prácticamente en solitario durante dos años, coordinando el apoyo puntual de 1 a 3 desarrolladores.\n\nAl cierre del proyecto la plataforma operaba con más de 800 profesionales registrados y superaba las 100.000 aperturas de servicio al año.",
-          "URL": "https://multihelpers.com"
+          "URL": "https://multihelpers.com",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/26/08/12/7729a333-8c16-4dd3-b3c1-139bd7b6fdd3_screenshot-at-aug-12.png",
+            "alt": "Screenshot at Aug 12 21-28-36.png"
+          }
         },
         "type": "achievement",
         "publishingDate": "2024-04-01",
