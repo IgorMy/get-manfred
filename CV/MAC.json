@@ -202,6 +202,12 @@
     "hardSkills": [
       {
         "skill": {
+          "name": "Docker",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "Express",
           "type": "technology"
         }
@@ -215,6 +221,12 @@
       {
         "skill": {
           "name": "Git",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "GitHub Actions",
           "type": "technology"
         }
       },
@@ -244,13 +256,37 @@
       },
       {
         "skill": {
+          "name": "PostgreSQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Python",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "React",
           "type": "technology"
         }
       },
       {
         "skill": {
+          "name": "Stripe",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "Symfony",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "TypeScript",
           "type": "technology"
         }
       },
@@ -275,7 +311,7 @@
       {
         "studyType": "officialDegree",
         "degreeAchieved": true,
-        "name": "Grado en Ingeniería, Ingeniería informática",
+        "name": "Grado en Ingeniería Informática — Computación",
         "startDate": "2017-09-01",
         "institution": {
           "name": "Universidad de Huelva",
@@ -284,7 +320,7 @@
             "alt": "24/02/05/fe5047a5-6e3f-46f5-82be-38776bc7d143_linkedin-photo-27100.linkedin-photo-27100"
           }
         },
-        "finishDate": "2022-09-30"
+        "finishDate": "2021-09-01"
       }
     ],
     "softSkills": [
@@ -436,11 +472,11 @@
         "type": "technology"
       },
       {
-        "name": "Laravel",
+        "name": "NodeJS",
         "type": "technology"
       },
       {
-        "name": "MongoDB",
+        "name": "Python",
         "type": "technology"
       },
       {
@@ -448,7 +484,7 @@
         "type": "technology"
       },
       {
-        "name": "Vue",
+        "name": "TypeScript",
         "type": "technology"
       }
     ],
