@@ -122,7 +122,7 @@
       },
       {
         "organization": {
-          "name": "The University of Huelva",
+          "name": "Universidad de Huelva",
           "image": {
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/02/05/64a31cf5-8a54-4b8e-af12-3762cf9758c6_linkedin-photo-27100.linkedin-photo-27100",
             "alt": "24/02/05/64a31cf5-8a54-4b8e-af12-3762cf9758c6_linkedin-photo-27100.linkedin-photo-27100"
@@ -135,7 +135,21 @@
             "finishDate": "2021-06-30",
             "challenges": [
               {
-                "description": "He colaborado con el departamento de visión artificial trabajando en el desarrollo de diferentes modelos de procesamiento de imágenes usando diferentes tipos de cámaras."
+                "description": "- Desarrollé modelos de procesamiento de imagen y segmentación facial sobre imágenes térmicas con redes neuronales (U-Net), evaluando distintos tipos de cámara.\n- Implementé una interfaz web con FastAPI y NiceGUI para la visualización en tiempo real de los resultados del modelo (Trabajo Fin de Grado).\n\nStack: Python, TensorFlow/Keras, U-Net, FastAPI, NiceGUI, Docker."
+              }
+            ],
+            "competences": [
+              {
+                "name": "Docker",
+                "type": "technology"
+              },
+              {
+                "name": "Fastapi",
+                "type": "technology"
+              },
+              {
+                "name": "Python",
+                "type": "technology"
               }
             ]
           }
