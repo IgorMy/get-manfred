@@ -1,0 +1,380 @@
+{
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.5/schema/schema.json",
+  "settings": {
+    "language": "ES",
+    "MACVersion": "0.5"
+  },
+  "aboutMe": {
+    "profile": {
+      "name": "Ihar",
+      "surnames": "Myshkevich Kiryanav",
+      "title": "Full Stack Developer",
+      "description": "¡Hola 👋!\n\nSoy Ihar Myshkevich y soy un desarrollador FullStack 🚀. Desde muy pequeño me encantaban las matemáticas, el ajedrez y los rompecabezas. Y, cuando descubrí el potencial de la informática, me quede embobado. Un nuevo mundo a descubrir, lleno de retos, emociones, amistades, etc.\n\nExplorando este mundo, descubrí que no solo tenía mucha facilidad para entender, aprender y desarrollar soluciones. Si no que no sentía de ello una carga. Es más, me encantaba. Cada problema que me encuentro es un nuevo reto 🎯, cada solución es otra victoria 🏆 y siempre hay algo nuevo que aprender 🧠, siempre hay una forma de mejorar y optimizar ⏳.\n\nEntre las diferentes aplicaciones con las que he trabajado, las que más me gustaron en este mundo son las aplicaciones web 💖. Aplicaciones multidispositivo que usamos día a día y, no solo nos permiten estar conectados entre nosotros fácilmente, si no que también mejoran nuestra vida diaria.\n\nDesde el backend, controlando la información sensible, quien puede o no acceder a ella y como optimizar su recuperación ⚡. Llegando al frontend, no solo para facilitarle al usuario la correcta y fácil interacción con la lógica de la aplicación, sino también una agradable representación ✨.\n\nActualmente, trabajo con Javascript 🔝 en mis ratos libres e intento siempre estar actualizado con las últimas tendencias, desarrollos, frameworks, etc. Como GraphQL, Deno, Kest, etc.\n\nSiéntete libre de contactarme 😉",
+      "avatar": {
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/02/05/433607e0-5acb-4fba-bd4d-b3f7e2932da8_linkedin-photo-27100.linkedin-photo-27100",
+        "alt": "24/02/05/433607e0-5acb-4fba-bd4d-b3f7e2932da8_linkedin-photo-27100.linkedin-photo-27100"
+      },
+      "location": {
+        "notes": "Autocompleted using Google Maps API (id: ChIJRcWdz7HZEQ0RD_Pxd01lycE)",
+        "country": "España",
+        "region": "Andalucía"
+      }
+    },
+    "relevantLinks": [
+      {
+        "type": "linkedin",
+        "URL": "https://linkedin.com/in/ihar-myshkevich"
+      },
+      {
+        "type": "github",
+        "URL": "https://github.com/IgorMy"
+      }
+    ]
+  },
+  "experience": {
+    "jobs": [
+      {
+        "organization": {
+          "name": "iAR",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/02/05/d7c9fa6c-02b3-4c71-bfbd-56ffa75caa80_linkedin-photo-27100.linkedin-photo-27100",
+            "alt": "24/02/05/d7c9fa6c-02b3-4c71-bfbd-56ffa75caa80_linkedin-photo-27100.linkedin-photo-27100"
+          }
+        },
+        "roles": [
+          {
+            "name": "Full-stack Developer",
+            "startDate": "2022-04-01",
+            "challenges": [
+              {
+                "description": "Front End: Vue.JS (Nuxt) y React.js\nBack End: Laravel, Symfony, Flask y FastAPI\nDatabase: MongoDB, Mysql y SQLServer"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Infonet Consultores Informáticos S.L.",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/02/05/17da6c5f-ac14-4605-9ac0-1d3c0ea3f699_linkedin-photo-27100.linkedin-photo-27100",
+            "alt": "24/02/05/17da6c5f-ac14-4605-9ac0-1d3c0ea3f699_linkedin-photo-27100.linkedin-photo-27100"
+          }
+        },
+        "roles": [
+          {
+            "name": "Software engenieer",
+            "startDate": "2021-08-01",
+            "finishDate": "2022-04-30",
+            "challenges": [
+              {
+                "description": "Full Stack Developer:\n- Desarrollo Front End con Blade\n- Desarrollo Back End con Laravel (PHP)\nSoftware Engineer:\n- Desarrollo de aplicaciones de escritorio con Delphi."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "The University of Huelva",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/02/05/64a31cf5-8a54-4b8e-af12-3762cf9758c6_linkedin-photo-27100.linkedin-photo-27100",
+            "alt": "24/02/05/64a31cf5-8a54-4b8e-af12-3762cf9758c6_linkedin-photo-27100.linkedin-photo-27100"
+          }
+        },
+        "roles": [
+          {
+            "name": "Ingeniero de visión artificial",
+            "startDate": "2021-01-01",
+            "finishDate": "2021-06-30",
+            "challenges": [
+              {
+                "description": "He colaborado con el departamento de visión artificial trabajando en el desarrollo de diferentes modelos de procesamiento de imágenes usando diferentes tipos de cámaras."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "ST Grupo Innova",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/02/05/4d941bbb-7576-479a-b9d2-f46560ad896e_linkedin-photo-27100.linkedin-photo-27100",
+            "alt": "24/02/05/4d941bbb-7576-479a-b9d2-f46560ad896e_linkedin-photo-27100.linkedin-photo-27100"
+          }
+        },
+        "roles": [
+          {
+            "name": "Full-stack Developer",
+            "startDate": "2017-04-01",
+            "finishDate": "2017-09-30",
+            "challenges": [
+              {
+                "description": "Front-End: React.js.\nBack-End: PHP - Laravel.\nDatabase: Firebase\n\nEn mi corta estancia en esta empresa, participe en varios desarrollos, como un sistema de telecomanda automática para los locales de ocio, que me impulsaron a seguir estudiando e ir a la Universidad."
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "knowledge": {
+    "languages": [
+      {
+        "name": "EN",
+        "fullName": "Inglés",
+        "level": "Professional working proficiency"
+      },
+      {
+        "name": "ES",
+        "fullName": "Español",
+        "level": "Full professional proficiency"
+      },
+      {
+        "name": "RU",
+        "fullName": "Ruso",
+        "level": "Professional working proficiency"
+      }
+    ],
+    "hardSkills": [
+      {
+        "skill": {
+          "name": "Express",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Fastapi",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Git",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Laravel",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "MongoDB",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "NextJS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "NodeJS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Nuxt.js",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "React",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Symfony",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Vue",
+          "type": "technology"
+        }
+      }
+    ],
+    "studies": [
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Administrador de sistemas informáticos en red, Informática",
+        "startDate": "2014-01-01",
+        "institution": {
+          "name": "I.E.S La Marisma"
+        },
+        "finishDate": "2016-01-01"
+      },
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Grado en Ingeniería, Ingeniería informática",
+        "startDate": "2017-09-01",
+        "institution": {
+          "name": "Universidad de Huelva",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/02/05/fe5047a5-6e3f-46f5-82be-38776bc7d143_linkedin-photo-27100.linkedin-photo-27100",
+            "alt": "24/02/05/fe5047a5-6e3f-46f5-82be-38776bc7d143_linkedin-photo-27100.linkedin-photo-27100"
+          }
+        },
+        "finishDate": "2022-09-30"
+      }
+    ]
+  },
+  "careerPreferences": {
+    "contact": {
+      "publicProfiles": [
+        {
+          "URL": "https://linkedin.com/in/ihar-myshkevich",
+          "type": "linkedin"
+        },
+        {
+          "URL": "https://github.com/IgorMy",
+          "type": "github"
+        }
+      ]
+    },
+    "preferences": {
+      "preferredCompetences": [
+        {
+          "name": "AWS",
+          "type": "technology"
+        },
+        {
+          "name": "Docker",
+          "type": "technology"
+        },
+        {
+          "name": "Fastapi",
+          "type": "technology"
+        },
+        {
+          "name": "Github Actions",
+          "type": "technology"
+        },
+        {
+          "name": "Jest",
+          "type": "technology"
+        },
+        {
+          "name": "Laravel",
+          "type": "technology"
+        },
+        {
+          "name": "MongoDB",
+          "type": "technology"
+        },
+        {
+          "name": "MySQL",
+          "type": "technology"
+        },
+        {
+          "name": "NextJS",
+          "type": "technology"
+        },
+        {
+          "name": "NodeJS",
+          "type": "technology"
+        },
+        {
+          "name": "Nuxt.js",
+          "type": "technology"
+        },
+        {
+          "name": "PHP",
+          "type": "technology"
+        },
+        {
+          "name": "PostgreSQL",
+          "type": "technology"
+        },
+        {
+          "name": "Pytest",
+          "type": "technology"
+        },
+        {
+          "name": "Python",
+          "type": "technology"
+        },
+        {
+          "name": "React",
+          "type": "technology"
+        },
+        {
+          "name": "SQLServer",
+          "type": "technology"
+        },
+        {
+          "name": "Symfony",
+          "type": "technology"
+        },
+        {
+          "name": "TypeScript",
+          "type": "technology"
+        },
+        {
+          "name": "Vue",
+          "type": "technology"
+        },
+        {
+          "name": "nestJS",
+          "type": "technology"
+        }
+      ],
+      "discardedCompetences": [
+        {
+          "name": "Delphi",
+          "type": "technology"
+        }
+      ],
+      "preferredRoles": [
+        "Backend Developer",
+        "Frontend Developer",
+        "Full-stack Developer",
+        "Tech Lead"
+      ]
+    },
+    "status": "searchingActively",
+    "requirements": {
+      "contractTypes": [
+        "permanent",
+        "freelance"
+      ]
+    }
+  },
+  "manfredSpecificData": {
+    "mainStackTechs": [
+      {
+        "name": "Laravel",
+        "type": "technology"
+      },
+      {
+        "name": "NextJS",
+        "type": "technology"
+      },
+      {
+        "name": "NodeJS",
+        "type": "technology"
+      },
+      {
+        "name": "Nuxt.js",
+        "type": "technology"
+      },
+      {
+        "name": "Symfony",
+        "type": "technology"
+      }
+    ],
+    "desiredJobDescription": "Mi trabajo ideal me permite tocar el producto de extremo a extremo: entender el problema de negocio, decidir la arquitectura que le encaja y llevarlo hasta producción. Me motiva más entender bien una herramienta —sus virtudes y sus límites— que acumular tecnologías, y disfruto especialmente con las integraciones que sostienen el negocio: pagos, ERP y, últimamente, conectar modelos de lenguaje con sistemas reales mediante MCP.\n\nMe muevo cómodo entre ecosistemas y entre frontend y backend, así que valoro equipos sin muros rígidos entre especialidades. Un buen día para mí tiene tiempo de foco para construir, revisiones de código honestas y decisiones técnicas que se discuten en abierto.\n\nMe veo en un punto medio entre contribuidor individual y referente técnico: he liderado técnicamente un producto y he formado a compañeros, y quiero seguir haciéndolo sin dejar de escribir código."
+  }
+}
