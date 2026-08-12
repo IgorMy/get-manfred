@@ -230,20 +230,6 @@
         },
         "finishDate": "2022-09-30"
       }
-    ],
-    "softSkills": [
-      {
-        "skill": {
-          "name": "Aprendizaje Continuo",
-          "type": "practice"
-        }
-      },
-      {
-        "skill": {
-          "name": "Pensamiento analítico",
-          "type": "practice"
-        }
-      }
     ]
   },
   "careerPreferences": {
