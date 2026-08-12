@@ -36,6 +36,64 @@
     "jobs": [
       {
         "organization": {
+          "name": "HumanAI Tech"
+        },
+        "roles": [
+          {
+            "name": "Full Stack Developer",
+            "startDate": "2024-04-01",
+            "challenges": [
+              {
+                "description": "Desarrollo de producto de extremo a extremo en un SaaS de evaluación de soft skills con IA, del diseño técnico al despliegue.\n\n- Automatización de procesos internos con LLMs mediante servidores MCP propios conectados a Odoo.\n- Microservicios en Python/FastAPI (recordatorios, informes PDF) y CI/CD en GitHub Actions sobre un ecosistema multiproyecto.\n- Facturación con Stripe (suscripciones, SEPA, 3D Secure, reembolsos por webhook) sincronizada con Odoo ERP, con agentes que analizan los fallos de cobro y gestionan la comunicación con el cliente.\n- Portal de cliente multi-tenant (React Router 7, TypeScript, Prisma, MongoDB) y codesarrollo de la v5 de la aplicación principal (Next.js).\n- Seguridad: 2FA con TOTP, revocación de sesiones, notificaciones en tiempo real por SSE.\n\nStack: Next.js, React Router 7, TypeScript, Node.js, Python, FastAPI, Prisma, MongoDB, Stripe, Odoo, Claude, MCP, Docker, GitHub Actions, Sentry."
+              }
+            ],
+            "competences": [
+              {
+                "name": "Docker",
+                "type": "technology"
+              },
+              {
+                "name": "Fastapi",
+                "type": "technology"
+              },
+              {
+                "name": "GitHub Actions",
+                "type": "technology"
+              },
+              {
+                "name": "MongoDB",
+                "type": "technology"
+              },
+              {
+                "name": "NodeJS",
+                "type": "technology"
+              },
+              {
+                "name": "PostgreSQL",
+                "type": "technology"
+              },
+              {
+                "name": "Python",
+                "type": "technology"
+              },
+              {
+                "name": "React",
+                "type": "technology"
+              },
+              {
+                "name": "Stripe",
+                "type": "technology"
+              },
+              {
+                "name": "TypeScript",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
           "name": "iAR",
           "image": {
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/02/05/d7c9fa6c-02b3-4c71-bfbd-56ffa75caa80_linkedin-photo-27100.linkedin-photo-27100",
