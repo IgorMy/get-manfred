@@ -237,6 +237,12 @@
           "name": "Capacidad de autogestión",
           "type": "practice"
         }
+      },
+      {
+        "skill": {
+          "name": "Capacidad de mentorización",
+          "type": "practice"
+        }
       }
     ]
   },
