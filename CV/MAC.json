@@ -229,6 +229,14 @@
         },
         "finishDate": "2022-09-30"
       }
+    ],
+    "softSkills": [
+      {
+        "skill": {
+          "name": "Liderazgo",
+          "type": "practice"
+        }
+      }
     ]
   },
   "careerPreferences": {
