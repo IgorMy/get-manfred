@@ -234,6 +234,12 @@
     "softSkills": [
       {
         "skill": {
+          "name": "Capacidad de abstracción",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
           "name": "Capacidad de autogestión",
           "type": "practice"
         }
