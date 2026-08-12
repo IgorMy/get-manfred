@@ -244,12 +244,6 @@
       },
       {
         "skill": {
-          "name": "Nuxt.js",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
           "name": "React",
           "type": "technology"
         }
@@ -438,23 +432,23 @@
   "manfredSpecificData": {
     "mainStackTechs": [
       {
+        "name": "Fastapi",
+        "type": "technology"
+      },
+      {
         "name": "Laravel",
         "type": "technology"
       },
       {
-        "name": "NextJS",
+        "name": "MongoDB",
         "type": "technology"
       },
       {
-        "name": "NodeJS",
+        "name": "React",
         "type": "technology"
       },
       {
-        "name": "Nuxt.js",
-        "type": "technology"
-      },
-      {
-        "name": "Symfony",
+        "name": "Vue",
         "type": "technology"
       }
     ],
