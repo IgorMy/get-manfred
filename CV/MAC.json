@@ -44,11 +44,34 @@
         },
         "roles": [
           {
-            "name": "Full-stack Developer",
+            "name": "Full Stack Developer / Responsable técnico",
             "startDate": "2022-04-01",
+            "finishDate": "2024-04-01",
             "challenges": [
               {
-                "description": "Front End: Vue.JS (Nuxt) y React.js\nBack End: Laravel, Symfony, Flask y FastAPI\nDatabase: MongoDB, Mysql y SQLServer"
+                "description": "Responsable técnico de Multihelpers, SaaS de asistencia a domicilio con cobertura nacional: +800 profesionales y +100.000 servicios al año. Construí el producto de principio a fin y coordiné de 1 a 3 desarrolladores: arquitectura, elección de stack y planificación de sprints.\n\n- Implementé agentes conversacionales con la API de OpenAI y Trengo (WhatsApp), con actualización de estado en BD y escalado a operador humano.\n- Plataforma web multi-cliente para colegios profesionales (colfisio.org, coenav.com).\n- CI/CD con Jenkins y GitHub Actions.\n- Formación al equipo en Laravel, FastAPI, Vue 3, Nuxt y RabbitMQ.\n\nStack: Laravel, PHP, Vue.js, Nuxt.js, Node.js, React Router, FastAPI, Nest.js, RabbitMQ, OpenAI API, Trengo, Jenkins, GitHub Actions."
+              }
+            ],
+            "competences": [
+              {
+                "name": "Fastapi",
+                "type": "technology"
+              },
+              {
+                "name": "Laravel",
+                "type": "technology"
+              },
+              {
+                "name": "NodeJS",
+                "type": "technology"
+              },
+              {
+                "name": "Nuxt.js",
+                "type": "technology"
+              },
+              {
+                "name": "Vue",
+                "type": "technology"
               }
             ]
           }
