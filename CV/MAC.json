@@ -87,12 +87,34 @@
         },
         "roles": [
           {
-            "name": "Software engenieer",
+            "name": "Software Engineer",
             "startDate": "2021-08-01",
             "finishDate": "2022-04-30",
             "challenges": [
               {
-                "description": "Full Stack Developer:\n- Desarrollo Front End con Blade\n- Desarrollo Back End con Laravel (PHP)\nSoftware Engineer:\n- Desarrollo de aplicaciones de escritorio con Delphi."
+                "description": "- Desarrollé con Laravel la aplicación web de Recodat, plataforma de gestión de personal de recolección agrícola utilizada por empresas del sector a nivel nacional.\n- Integré dispositivos IoT —báscula inteligente y sensores de temperatura— programando los microcontroladores en Python y conectándolos con la plataforma de gestión.\n- Construí cuadros de mando interactivos en Power BI con DAX y SQL Server para informes operativos y toma de decisiones basada en datos.\n\nStack: Laravel, Python, Symfony, React.js, Docker, IoT, Power BI, DAX, SQL Server."
+              }
+            ],
+            "competences": [
+              {
+                "name": "Docker",
+                "type": "technology"
+              },
+              {
+                "name": "Laravel",
+                "type": "technology"
+              },
+              {
+                "name": "Python",
+                "type": "technology"
+              },
+              {
+                "name": "React",
+                "type": "technology"
+              },
+              {
+                "name": "Symfony",
+                "type": "technology"
               }
             ]
           }
