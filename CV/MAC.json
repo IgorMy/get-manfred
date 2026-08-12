@@ -131,10 +131,6 @@
         ],
         "relatedCompetences": [
           {
-            "name": "Fastapi",
-            "type": "technology"
-          },
-          {
             "name": "Laravel",
             "type": "technology"
           },
