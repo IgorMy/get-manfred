@@ -36,7 +36,12 @@
     "jobs": [
       {
         "organization": {
-          "name": "HumanAI Tech"
+          "name": "HumanAI Tech",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/26/08/12/eebd5ce0-bc76-4df7-9c60-ca84edb9b554_1630617958047.jpeg",
+            "alt": "1630617958047.jpeg"
+          },
+          "URL": "https://humanaitech.com/"
         },
         "roles": [
           {
