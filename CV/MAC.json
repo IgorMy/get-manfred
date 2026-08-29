@@ -155,7 +155,7 @@
             "finishDate": "2022-04-30",
             "challenges": [
               {
-                "description": "- Desarrollé con Laravel la aplicación web de Recodat, plataforma de gestión de personal de recolección agrícola utilizada por empresas del sector a nivel nacional.\n- Integré dispositivos IoT —báscula inteligente y sensores de temperatura— programando los microcontroladores en Python y conectándolos con la plataforma de gestión.\n- Construí cuadros de mando interactivos en Power BI con DAX y SQL Server para informes operativos y toma de decisiones basada en datos.\n\nStack: Laravel, Python, Symfony, React.js, Docker, IoT, Power BI, DAX, SQL Server."
+                "description": "- Desarrollé con Laravel la aplicación web de Recodat, plataforma de gestión de personal de recolección agrícola utilizada por empresas del sector a nivel nacional.\n- Integré dispositivos IoT —báscula inteligente y sensores de temperatura— programando los microcontroladores en Python y conectándolos con la plataforma de gestión.\n- Construí cuadros de mando interactivos en Power BI con DAX y SQL Server para informes operativos y toma de decisiones basada en datos.\n\nStack: Laravel, Python, Symfony, React, Docker, IoT, Power BI, DAX, SQL Server."
               }
             ],
             "competences": [
@@ -438,11 +438,11 @@
         "studyType": "officialDegree",
         "degreeAchieved": true,
         "name": "Administrador de sistemas informáticos en red, Informática",
-        "startDate": "2014-01-01",
+        "startDate": "2015-09-01",
         "institution": {
           "name": "I.E.S La Marisma"
         },
-        "finishDate": "2016-01-01"
+        "finishDate": "2017-09-01"
       },
       {
         "studyType": "officialDegree",
