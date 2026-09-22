@@ -528,6 +528,10 @@
           "type": "technology"
         },
         {
+          "name": "Nest",
+          "type": "technology"
+        },
+        {
           "name": "NextJS",
           "type": "technology"
         },
