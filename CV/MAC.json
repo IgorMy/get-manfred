@@ -257,6 +257,20 @@
     "projects": [
       {
         "details": {
+          "name": "Vocora – Grabación y análisis de llamadas con IA (Android + API)",
+          "description": "App personal para grabar llamadas desde el móvil, transcribirlas, indexarlas en un RAG y consultarlas con agentes.\n\n- **vocora-server:** backend en FastAPI con transcripción de audio (faster-whisper), RAG sobre pgvector, agentes y servidor MCP, colas de tareas con Procrastinate, SQLModel/Alembic, rate limiting y despliegue en Docker.\n- **vocora-android:** app nativa en Kotlin con Jetpack Compose, kotlinx.serialization y KSP, con CI en GitHub Actions.\n\nEn desarrollo activo.\n\nRepos: https://github.com/IgorMy/vocora-server · https://github.com/IgorMy/vocora-android",
+          "URL": "https://github.com/IgorMy/vocora-server"
+        },
+        "type": "sideProject",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2026-10-01"
+          }
+        ]
+      },
+      {
+        "details": {
           "name": "Odoo MCP multiusuario (OAuth 2.1 + Keycloak)",
           "description": "Servidor MCP que conecta asistentes de IA con Odoo ERP. Fork que sustituye la credencial única compartida del proyecto original por autenticación por usuario, de forma que cada persona opera en Odoo con sus propios permisos en lugar de con una cuenta técnica común.\n\n- Keycloak como bóveda de credenciales y proveedor de identidad.\n- Sesiones aisladas por token: cada usuario mantiene su propia conexión XML-RPC contra Odoo.\n- Alta sin interacción en el chat: el flujo de autorización se resuelve fuera de la conversación.\n- Desplegado con Docker y Caddy como proxy inverso, con PostgreSQL para el estado de sesión.\n\nUso real: automatiza la facturación de proveedores y las consultas al ERP, eliminando gran parte del trabajo administrativo manual del equipo.",
           "URL": "https://github.com/IgorMy/mcp-odoo-oauth-multi-user"
@@ -633,6 +647,9 @@
     "projects": [
       {
         "name": "Odoo MCP multiusuario (OAuth 2.1 + Keycloak)"
+      },
+      {
+        "name": "Vocora – Grabación y análisis de llamadas con IA (Android + API)"
       }
     ]
   }
