@@ -296,6 +296,21 @@
             ]
           }
         ]
+      },
+      {
+        "details": {
+          "name": "Segmentación facial en imágenes térmicas (TFG)",
+          "description": "Proyecto desarrollado como parte de mi Trabajo Fin de Grado (TFG) en Ingeniería Informática en la Universidad de Huelva. Aplicación de una red neuronal (U-Net) a la segmentación facial en imágenes térmicas, con una interfaz construida con FastAPI y NiceGUI para probar y visualizar los resultados del modelo.\n\nStack: Python, TensorFlow/Keras, U-Net, FastAPI, NiceGUI, Docker.",
+          "URL": "https://tfg.iharmyshkevich.es/"
+        },
+        "type": "sideProject",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2021-01-01",
+            "finishDate": "2021-06-01"
+          }
+        ]
       }
     ],
     "publicArtifacts": [
@@ -647,6 +662,9 @@
     "projects": [
       {
         "name": "Odoo MCP multiusuario (OAuth 2.1 + Keycloak)"
+      },
+      {
+        "name": "Segmentación facial en imágenes térmicas (TFG)"
       },
       {
         "name": "Vocora – Grabación y análisis de llamadas con IA (Android + API)"
